@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btns {
+  color: red;
+  width: 15px;
+  height: 15px;
+  background: orange;
+  margin: 10px;
+}
+
+.active-btn {
+  background-color: pink;
+  color: red;
+  width: 15px;
+  height: 15px;
+  margin: 10px;
+}
+
+.btns-div {
+  display: flex;
+  justify-content: center;
+}
